@@ -1,2 +1,2 @@
 # 5SecondsToExplode
-This is small game
+This is a small game
